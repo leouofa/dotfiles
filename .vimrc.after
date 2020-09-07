@@ -1,0 +1,15 @@
+" ==== NERD tree
+" <leader>-1 for nerd tree
+map ,1 :NERDTreeToggle<CR>
+
+" ==== FOLD Methods
+map ,20 :setlocal foldmethod=indent<CR>
+map ,21 :setlocal foldmethod=manual<CR>
+map ,22 :setlocal foldmethod=syntax<CR>
+
+" ==== Marks Methods
+map ,00 :delmarks!<CR>
+
+
+" ==== Toogle Syntax
+map ,9  :SyntasticToggleMode<CR>
