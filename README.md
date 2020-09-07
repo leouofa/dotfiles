@@ -1,3 +1,3 @@
 # The Dot Files
 
-To be used on a Mac computers with a customized version of [YADR](https://github.com/leouofa/yadr-dotfiles).
+To be used in a home directory of a Mac computer with a customized version of [YADR](https://github.com/leouofa/yadr-dotfiles).
